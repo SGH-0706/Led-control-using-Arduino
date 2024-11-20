@@ -1,4 +1,4 @@
-![Screenshot 2024-11-20 152533](https://github.com/user-attachments/assets/a97015d8-fd79-4b6a-b3fb-4fc30a61879e)# Led-control-using-Arduino
+
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
