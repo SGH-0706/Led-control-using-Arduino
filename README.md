@@ -77,5 +77,5 @@ LED ON:
 ![Screenshot 2024-11-20 154505](https://github.com/user-attachments/assets/b8360fc5-1535-4074-8fb0-d2a9457d444d)
 
 ## RESULT
-The project desiged and implemented the system for LED control using an Arduino microcontroller and a push button successfully
+The project desiged and implemented the system for LED control using an Arduino microcontroller and a push button successfully.
 
