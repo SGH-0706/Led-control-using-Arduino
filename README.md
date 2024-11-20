@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+![Screenshot 2024-11-20 152533](https://github.com/user-attachments/assets/a97015d8-fd79-4b6a-b3fb-4fc30a61879e)# Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -59,8 +59,23 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![Screenshot 2024-11-20 155126](https://github.com/user-attachments/assets/36236977-edc0-4a3c-a97e-6a4ba14ed5cf)
+
+
 ## PROGRAM
 
+![Screenshot 2024-11-20 152533](https://github.com/user-attachments/assets/1a38b0bc-745b-4bc9-a2d3-23c6bcded8d2)
+
+
 ## OUTPUT
+LED OFF:
+
+![Screenshot 2024-11-20 154446](https://github.com/user-attachments/assets/4d5ee7eb-8652-4093-922a-3fe1f3b8987f)
+
+LED ON:
+
+![Screenshot 2024-11-20 154505](https://github.com/user-attachments/assets/b8360fc5-1535-4074-8fb0-d2a9457d444d)
 
 ## RESULT
+The project desiged and implemented the system for LED control using an Arduino microcontroller and a push button successfully
+
